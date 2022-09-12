@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+심플아이콘 사이트 : https://simpleicons.org/
+
 -->
 
 ## I've used these tech stacks at least once.
