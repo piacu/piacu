@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 
 심플아이콘 사이트 : https://simpleicons.org/
 
--->
-
 ## I've used these tech stacks at least once.
 
 ### [Language]
@@ -42,3 +40,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/></a>
+
+-->
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsznawa)](https://solved.ac/jsznawa/)
